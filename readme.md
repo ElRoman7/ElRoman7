@@ -1,48 +1,20 @@
-# Hi, I'm Sergio Román! 👋
+## Hi, I'm Sergio Román!  
+I’m a passionate software developer with experience in backend and frontend technologies. I focus on clean architecture, best practices, and scalable development.
 
-I am a passionate software developer focused on creating innovative and efficient solutions. With experience in both backend and frontend technologies, I prioritize clean architecture, best practices, and scalable software development.
+### Technologies & Tools:
+- **Backend**: NestJS, Node.js, Express, TypeORM, Sequelize, PHP, Laravel
+- **Frontend**: Angular, HTML5, CSS3, SASS, JavaScript, TypeScript
+- **DevOps**: Docker, Git, Postman
 
-## 🔧 Technologies and Tools
+### Featured Project:  
+**[Bienes Raíces MVC](https://github.com/ElRoman7/BienesRaicesMVCJs)**  
+Real estate management app using MVC architecture with Node.js, Pug, Tailwind CSS, and MySQL.
 
-### **Backend Development**
-
-- Nestjs
-- Node.js and Express with TS
-- TypeORM and Sequelize
-- SQL Databases and MongoDB
-- PHP and Laravel
-
-### **Frontend Development**
-
-- Angular
-- HTML5, CSS3, and SASS
-- JavaScript and TypeScript
-
-### **DevOps and Tools**
-
-- Docker
-- Git and GitHub
-- API testing with Postman
-
-## 🎩 Featured Projects
-
-### [Bienes Raíces MVC](https://github.com/ElRoman7/BienesRaicesMVCJs)
-
-A real estate management application built using MVC architecture with Node.js.
-
-- **Backend**: Node.js, Express
-- **Frontend**: Pug as a template engine, Tailwind CSS
-- **Database**: MySQL
-
-## 💌 Connect with Me
-
-- Portfolio: [sromandev.click](https://sromandev.click/)
+### Connect with Me:  
+- Portfolio: [sromandev.click](https://sromandev.click/)  
 - GitHub: [github.com/ElRoman7](https://github.com/ElRoman7)
 
----
-
-### 🔧 Technologies I Use:
-
+### Technologies I Use:  
 <p>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -54,6 +26,3 @@ A real estate management application built using MVC architecture with Node.js.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
 </p>
-
-📲 Thank you for visiting my profile!
-
