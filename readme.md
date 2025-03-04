@@ -3,7 +3,7 @@ I’m a passionate software developer with experience in backend and frontend te
 
 ### Technologies & Tools:
 - **Backend**: NestJS, Node.js, Express, TypeORM, Sequelize, PHP, Laravel
-- **Frontend**: Angular, HTML5, CSS3, SASS, JavaScript, TypeScript
+- **Frontend**: Angular, React ,HTML5, CSS3, SASS, JavaScript, TypeScript
 - **DevOps**: Docker, Git, Postman
 
 ### Featured Project:  
