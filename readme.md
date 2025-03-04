@@ -15,7 +15,12 @@ I am currently working on a **collaborative job board project**, handling both b
 ### 🌐 Connect with Me:  
 - Portfolio: [sromandev.click](https://sromandev.click/)  
 - GitHub: [ElRoman7](https://github.com/ElRoman7)  
-- LinkedIn: [Sergio Román](https://www.linkedin.com/in/sergio-roman-397a012b4/)  
+- LinkedIn: [Sergio Román](https://www.linkedin.com/in/sergio-roman-397a012b4/)
+
+### 📂 More Projects:  
+Here are some other projects in my portfolio:
+- **[CartEase](https://github.com/ElRoman7/CartEase)** – E-Commerce project with admin panel for users, products, promotions, orders, cart functionality, secure authentication for users and employees/admins, and a responsive design.
+- **[Teslo Shop](https://github.com/ElRoman7/Teslo-shop)** – E-Commerce API with user authentication, product management, image uploads, pagination, user roles, JWT token generation, and Swagger API documentation. Implemented with NestJS and PostgreSQL.
 
 ### 🛠️ Technologies I Use:  
 <p align="center">
