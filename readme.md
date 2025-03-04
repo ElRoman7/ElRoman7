@@ -36,3 +36,6 @@ Here are some other projects in my portfolio:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50" height="50"/>
 </p>
+
+### 📊 Languages I Use:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElRoman7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
