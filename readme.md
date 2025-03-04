@@ -3,16 +3,22 @@ I’m a passionate software developer with experience in backend and frontend te
 
 ### Technologies & Tools:
 - **Backend**: NestJS, Node.js, Express, TypeORM, Sequelize, PHP, Laravel
-- **Frontend**: Angular, React ,HTML5, CSS3, SASS, JavaScript, TypeScript
+- **Frontend**: Angular, React, HTML5, CSS3, SASS, JavaScript, TypeScript
 - **DevOps**: Docker, Git, Postman
 
 ### Featured Project:  
 **[Bienes Raíces MVC](https://github.com/ElRoman7/BienesRaicesMVCJs)**  
 Real estate management app using MVC architecture with Node.js, Pug, Tailwind CSS, and MySQL.
 
+I am currently working on a collaborative job board project, handling both backend and frontend development.
+### Tech Stack:  
+- **Backend:** NestJS, PostgreSQL, TypeORM  
+- **Frontend:** React, Tailwind CSS
+
 ### Connect with Me:  
 - Portfolio: [sromandev.click](https://sromandev.click/)  
-- GitHub: [github.com/ElRoman7](https://github.com/ElRoman7)
+- GitHub: [ElRoman7](https://github.com/ElRoman7)  
+- LinkedIn: [Sergio Román](https://www.linkedin.com/in/sergio-roman-397a012b4/)  
 
 ### Technologies I Use:  
 <p>
