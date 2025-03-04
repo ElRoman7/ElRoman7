@@ -38,4 +38,4 @@ Here are some other projects in my portfolio:
 </p>
 
 ### 📊 Languages I Use:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElRoman7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElRoman7&layout=donut)]
