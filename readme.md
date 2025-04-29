@@ -10,6 +10,7 @@ I’m a passionate software developer with experience in backend and frontend te
 **[Bienes Raíces MVC](https://github.com/ElRoman7/BienesRaicesMVCJs)**  
 A real estate management app using MVC architecture with Node.js, Pug, Tailwind CSS, and MySQL.
 
+**[Lavorum](https://lavorum.sromandev.click)**
 I am currently working on a **collaborative job board project**, handling both backend and frontend development using **NestJS, PostgreSQL, TypeORM, React, and Tailwind CSS**.  
 
 ### 🌐 Connect with Me:  
